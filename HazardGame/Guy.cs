@@ -1,4 +1,4 @@
-﻿namespace MoneyTransfer
+﻿namespace HazardGame
 {
     public class Guy
     {
